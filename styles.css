@@ -4,7 +4,7 @@
 :root {
   /* recs */
   --rec-rot: rotateX(-30deg) rotateY(-45deg);
-  --rec-tran--2: translate3d(-73.5px, -46.5px, -52.6px);
+  --rec-tran--2: translate3d(-73.5px, -46.5px, -53.4px);
   /* faces */
   --front-face-rot: rotateX(90deg);
   /*--  front  */
